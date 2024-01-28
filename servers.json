@@ -2,7 +2,7 @@
   "servers":[
     {
       "name": "playtest",
-      "url": "https://localhost:5001",
+      "url": "https://75.155.79.156:5001",
       "hours": {
         "up" : "2024-01-27 00:00:00",
         "down": "2024-01-27 02:00:00"
