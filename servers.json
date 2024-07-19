@@ -2,7 +2,7 @@
   "servers":[
     {
       "name": "playtest",
-      "url": "https://alfred.mba.hk:5002",
+      "url": "http://alfred.mba.hk:5002",
       "hours": {
         "up" : "2024-01-27 00:00:00",
         "down": "2024-01-27 02:00:00"
