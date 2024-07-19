@@ -1,14 +1,6 @@
 {
   "servers":[
     {
-      "name": "localhost",
-      "url": "http://192.168.1.199:5002",
-      "hours": {
-        "up" : "2024-01-27 00:00:00",
-        "down": "2024-01-27 02:00:00"
-      }
-    },
-    {
       "name": "playtest",
       "url": "https://alfred.mba.hk:8899",
       "hours": {
